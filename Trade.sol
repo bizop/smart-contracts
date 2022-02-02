@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT LICENSE
 
-// This contract shows a hypothetical example of an escrow type service. Not audited, use at your own risk.
+// This contract shows a hypothetical example of an escrow type service for trustless NFT trading. Not audited, use at your own risk.
 
 pragma solidity ^0.8.0;
 
