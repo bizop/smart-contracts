@@ -1,5 +1,7 @@
 // SPDX-License-Identifier: MIT LICENSE
 
+// This contract shows a hypothetical example of an escrow type service. Not audited, use at your own risk.
+
 pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
