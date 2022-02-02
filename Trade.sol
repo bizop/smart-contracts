@@ -36,7 +36,7 @@ contract Trade is IERC721Receiver {
         address accepter;
     }
 
-    // maps tokenId to escrow
+    // maps proposerToken to escrow
     mapping(uint256 => Escrow) public escrow; 
 
     function proposeTrade(uint256 proposerToken, uint256 accepterToken) public {
